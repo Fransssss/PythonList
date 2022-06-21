@@ -9,7 +9,7 @@
 
 
 
-- Example Output
+Example Output
 
 
 ![image](https://user-images.githubusercontent.com/97081479/174825754-d2f3343a-2aba-4a9e-be6a-043cb62deaec.png)

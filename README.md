@@ -1,5 +1,5 @@
 # PythonList
-- Basic list with Python
+Basic list with Python
 - use list.append()
 - use list.add(pos,item)
 - use list.pop()

@@ -1,10 +1,10 @@
 # PythonList
 Basic list with Python
-- use list.append()
+- use list.append(item)
 - use list.add(pos,item)
 - use list.pop()
 - use list.clear()
-- uee list.remove
+- uee list.remove(item)
 - use list.sort()
 
 

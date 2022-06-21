@@ -5,6 +5,8 @@
 - use list.pop()
 - use list.clear()
 - uee list.remove
+- use list.sort()
+
 
 
 - Example Output
